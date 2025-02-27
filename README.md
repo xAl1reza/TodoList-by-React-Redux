@@ -62,5 +62,4 @@ npm run dev
   - **`App.jsx`**: Main application component.
   - **`main.jsx`**: Entry point for the app.
 - **`public/`**: Static assets like images and icons.
-- **`tailwind.config.js`**: Tailwind CSS configuration file.
 - **`vite.config.js`**: Vite configuration file.
