@@ -43,7 +43,6 @@ This is a **Todo-List** project built using **React** , **Tailwind CSS** and **R
    ```
 
 5. **Open the app**:
-   Open your browser and go to `http://localhost:3000` to view the app.
 
 ### Using Vite
 
